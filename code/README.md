@@ -3,6 +3,7 @@
 ## Запуск
 
 ```bash
+cd code
 cp .env.example .env
 docker compose up --build
 ```
